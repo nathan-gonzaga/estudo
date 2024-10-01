@@ -8,3 +8,5 @@ O importante é não desistir né
 Acho que já entendi como funciona essa parte.
 
 Agora eu criei uma branch para ver como funciona.
+
+Agora eu vou consolidar meu aprendizado de hoje, adicionando mais uma frase nesse readme. Me perdoe pela falta de organização, logo isso mudará.
